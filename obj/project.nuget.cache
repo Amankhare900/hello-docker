@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m/HhKIu7WO4=",
+  "dgSpecHash": "v/DZUzFRUHQ=",
   "success": true,
   "projectFilePath": "D:\\Self Learning\\Docker\\hello-docker\\hello-docker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AmanDeepKhare\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\9.0.5\\microsoft.netcore.app.host.linux-x64.9.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

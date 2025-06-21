@@ -1,7 +1,9 @@
+using System.Runtime.InteropServices;
+
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello DOCKER!");
+app.MapGet("/", () => $"Hello from {RuntimeInformation.OSDescription} on {RuntimeInformation.OSArchitecture}!");
 
 
 app.MapGet("/hello", () => "Hello World!");
