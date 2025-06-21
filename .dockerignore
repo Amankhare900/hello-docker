@@ -1,0 +1,7 @@
+**/bin
+**/boj
+**/properties
+**/Dockerfile*
+**/.dockerignore
+**/appsettings.Development.json
+**/*.sln
