@@ -5,6 +5,8 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>hello_docker</RootNamespace>
+    <!-- <ContainerBaseImage>mcr.microsoft.com/dotnet/aspnet:9.0-alpine</ContainerBaseImage> that one way to do it  -->
+    
   </PropertyGroup>
 
 </Project>

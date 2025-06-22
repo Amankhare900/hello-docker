@@ -63,7 +63,7 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "name": "Microsoft.NETCore.App.Host.linux-musl-x64",
               "version": "[9.0.5, 9.0.5]"
             }
           ],
@@ -79,7 +79,7 @@
         }
       },
       "runtimes": {
-        "linux-x64": {
+        "linux-musl-x64": {
           "#import": []
         }
       }

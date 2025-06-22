@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net9.0": {},
-    "net9.0/linux-x64": {}
+    "net9.0/linux-musl-x64": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
@@ -71,7 +71,7 @@
         "warn": true,
         "downloadDependencies": [
           {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "name": "Microsoft.NETCore.App.Host.linux-musl-x64",
             "version": "[9.0.5, 9.0.5]"
           }
         ],
@@ -87,7 +87,7 @@
       }
     },
     "runtimes": {
-      "linux-x64": {
+      "linux-musl-x64": {
         "#import": []
       }
     }
