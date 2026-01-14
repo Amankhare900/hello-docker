@@ -1,0 +1,7 @@
+D:\Self Learning\Docker\hello-docker\bin\Release\net9.0\linux-musl-x64\publish\hello-docker
+D:\Self Learning\Docker\hello-docker\bin\Release\net9.0\linux-musl-x64\publish\appsettings.Development.json
+D:\Self Learning\Docker\hello-docker\bin\Release\net9.0\linux-musl-x64\publish\appsettings.json
+D:\Self Learning\Docker\hello-docker\bin\Release\net9.0\linux-musl-x64\publish\hello-docker.dll
+D:\Self Learning\Docker\hello-docker\bin\Release\net9.0\linux-musl-x64\publish\hello-docker.deps.json
+D:\Self Learning\Docker\hello-docker\bin\Release\net9.0\linux-musl-x64\publish\hello-docker.runtimeconfig.json
+D:\Self Learning\Docker\hello-docker\bin\Release\net9.0\linux-musl-x64\publish\hello-docker.pdb
